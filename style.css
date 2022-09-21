@@ -2,7 +2,7 @@
 
 body {
     font-family: 'Permanent Marker', cursive;
-    background-image: url(/gif.gif);
+    background-image: url(./img/gif.gif);
 }
 
 
@@ -23,7 +23,7 @@ header {
     height: 170px;
     display: flex;
     border: solid black 3px;
-    background-image: url(fxac.gif);
+    background-image: url(./img/fxac.gif);
     background-size: contain;
     background-size: 100% 100%;
 }
@@ -80,7 +80,7 @@ h1 {
     width: 300px;
     height: 300px;
     border: solid rgb(0, 0, 0) 4px;
-    background-image: url(DoPf.gif);
+    background-image: url(./img/DoPf.gif);
     background-size: contain;
     background-repeat: no-repeat;
     background-size: 100% 100%;
@@ -90,7 +90,7 @@ h1 {
     width: 300px;
     height: 300px;
     border: solid rgb(0, 0, 0) 4px;
-    background-image: url(giphy.gif);
+    background-image: url(./img/giphy.gif);
     background-size: contain;
     background-repeat: no-repeat;
     background-size: 100% 100%;
@@ -100,7 +100,7 @@ h1 {
     width: 300px;
     height: 300px;
     border: solid rgb(0, 0, 0) 4px;
-    background-image: url(giphy6\).gif);
+    background-image: url(./img/giphy6\).gif);
     background-size: contain;
     background-repeat: no-repeat;
     background-size: 100% 100%;
@@ -110,7 +110,7 @@ h1 {
     width: 300px;
     height: 300px;
     border: solid rgb(0, 0, 0) 4px;
-    background-image: url(galagi3.gif);
+    background-image: url(./img/galagi3.gif);
     background-size: contain;
     background-repeat: no-repeat;
     background-size: 100% 100%;
@@ -120,7 +120,7 @@ h1 {
     width: 300px;
     height: 300px;
     border: solid rgb(0, 0, 0) 4px;
-    background-image: url(giphy7.gif);
+    background-image: url(./img/giphy7.gif);
     background-size: contain;
     background-repeat: no-repeat;
     background-size: 100% 100%;
@@ -130,7 +130,7 @@ h1 {
     width: 300px;
     height: 300px;
     border: solid rgb(0, 0, 0) 4px;
-    background-image: url(giphy\ \(9\).gif);
+    background-image: url(./img/giphy\ \(9\).gif);
     background-size: contain;
     background-repeat: no-repeat;
     background-size: 100% 100%;
@@ -163,7 +163,7 @@ h1 {
     background-image: url();
     background-size: contain;
     background-size: 100% 100%;
-    background-image: url(giphy\ 8.gif);
+    background-image: url(./img/giphy\ 8.gif);
 }
 
 .equipo {
@@ -200,16 +200,16 @@ h1 {
 }
 
 .imgequipo2 {
-    background-image: url(nasa_equipo.jpg);
+    background-image: url(./img/nasa_equipo.jpg);
 }
 
 .imgequipo {
-    background-image: url(equipoastro.webp);
+    background-image: url(./img/equipoastro.webp);
 
 }
 
 .imgequipo3 {
-    background-image: url(equipo_nasa.jpg);
+    background-image: url(./img/equipo_nasa.jpg);
 }
 
 .pequipo {
