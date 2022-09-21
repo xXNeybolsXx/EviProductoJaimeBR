@@ -1,0 +1,315 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+body {
+    font-family: 'Permanent Marker', cursive;
+    background-image: url(/gif.gif);
+}
+
+
+header {
+    height: 200px;
+    background-color: rgba(114, 68, 222, 0.75);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    border: solid black 5px;
+    background-size: contain;
+    margin: 20px;
+
+}
+
+.logo {
+    width: 170px;
+    height: 170px;
+    display: flex;
+    border: solid black 3px;
+    background-image: url(fxac.gif);
+    background-size: contain;
+    background-size: 100% 100%;
+}
+ 
+
+.nav {
+    display: flex;
+    gap: 150px;
+    background-color: rgba(114, 68, 222, 0.75);
+    padding: 15px;
+
+}
+
+.enlace {
+    text-decoration: none;
+    background-color: blueviolet;
+    padding: 20px;
+    color: rgba(255, 255, 255, 0.945);
+    border: solid black 2px;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+.main {
+    width: 80%;
+    height: 100%;
+}
+
+.titulo {
+    font-family: 'Roboto', sans-serif;
+    border: 3px black solid;
+    text-align: center;
+    background-color: rgba(13, 255, 255, 0.61);
+
+}
+
+.cajasimgs {
+    justify-content: center;
+    font-family: 'Roboto', sans-serif;
+    padding: 20px;
+    display: flex;
+    flex-flow: row wrap;
+    margin: 20px;
+    gap: 40px;
+    background-color: rgba(114, 68, 222, 0.75);
+    border: black solid 3px;
+
+}
+
+.img1 {
+    width: 300px;
+    height: 300px;
+    border: solid rgb(0, 0, 0) 4px;
+    background-image: url(DoPf.gif);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.img2 {
+    width: 300px;
+    height: 300px;
+    border: solid rgb(0, 0, 0) 4px;
+    background-image: url(giphy.gif);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.img3 {
+    width: 300px;
+    height: 300px;
+    border: solid rgb(0, 0, 0) 4px;
+    background-image: url(giphy6\).gif);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.img4 {
+    width: 300px;
+    height: 300px;
+    border: solid rgb(0, 0, 0) 4px;
+    background-image: url(galagi3.gif);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.img5 {
+    width: 300px;
+    height: 300px;
+    border: solid rgb(0, 0, 0) 4px;
+    background-image: url(giphy7.gif);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.img6 {
+    width: 300px;
+    height: 300px;
+    border: solid rgb(0, 0, 0) 4px;
+    background-image: url(giphy\ \(9\).gif);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.pimg {
+    display: flex;
+    justify-content: center;
+    font-family: 'Roboto', sans-serif;
+    padding: 20px;
+    display: flex;
+    flex-flow: row wrap;
+    margin: 20px;
+    gap: 60px;
+    background-color: rgba(114, 68, 222, 0.75);
+    border: black solid 3px;
+}
+
+.p1 {
+    width: 50%;
+    color: white;
+
+}
+
+.imgp {
+    height: 450px;
+    width: 450px;
+    border: solid black 2px;
+    justify-content: right;
+    background-image: url();
+    background-size: contain;
+    background-size: 100% 100%;
+    background-image: url(giphy\ 8.gif);
+}
+
+.equipo {
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    font-family: 'Roboto', sans-serif;
+    padding: 50px;
+    display: flex;
+    flex-flow: row wrap;
+    background-color: rgba(114, 68, 222, 0.75);
+    margin: 20px;
+    gap: 35px;
+    border: black solid 3px;
+}
+
+
+.imgequipo3,
+.imgequipo,
+.imgequipo2 {
+    display: flex;
+    flex-flow: row wrap;
+    background-repeat: no-repeat;
+    border: black 2px solid;
+    width: 300px;
+    height: 350px;
+    background-size: contain;
+    border-top-left-radius: 15%;
+    border-top-right-radius: 15%;
+    justify-content: start;
+    background-color: black;
+    background-size: 100% 100%;
+
+}
+
+.imgequipo2 {
+    background-image: url(nasa_equipo.jpg);
+}
+
+.imgequipo {
+    background-image: url(equipoastro.webp);
+
+}
+
+.imgequipo3 {
+    background-image: url(equipo_nasa.jpg);
+}
+
+.pequipo {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-flow: row wrap;
+    border: solid 3px;
+    height: 60px;
+    width: 285px;
+    margin-top: auto;
+    margin-left: 5px;
+    margin-right: 5px;
+    background-color: rgba(114, 68, 222, 0.75);
+}
+
+.contacto {
+    margin: 20px;
+    background-size: 100vw 100vh;
+    background-attachment: fixed;
+    font-family: monospace;
+    border: black solid 3px;
+    background-color: rgba(114, 68, 222, 0.75);
+    height: 450px;
+}
+
+form {
+    margin: auto;
+    background-color: rgba(114, 68, 222, 0.75);
+    padding: 10px 20px;
+    box-sizing: border-box;
+    margin-top: 20px;
+    border-radius: 3px;
+    width: 80%;
+}
+
+.botonf {
+    display: flex;
+    justify-content: center;
+    height: 60px;
+    margin: auto;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    margin-top: 20px;
+    border-radius: 3px;
+    width: 80%;
+
+}
+
+input,
+textarea {
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 7px;
+    box-sizing: border-box;
+    font-size: 17px;
+    border: none;
+}
+
+textarea {
+    min-height: 100px;
+    max-height: 200px;
+    max-width: 100%;
+
+}
+
+.footer {
+ padding: 10px;
+ background-color: rgba(114, 68, 222, 0.75);
+ margin: 10px;
+}
+
+.div3 {
+ height:0 auto ;
+ flex-flow:row wrap;
+ display: flex;
+ width: 99%;
+ align-content: center;
+ margin: 10px;
+ justify-content: space-between;
+ background-color: rgba(114, 68, 222, 0.75);
+}
+
+.redes {
+  width: 550px;
+    flex-wrap: wrap;
+    margin: 10px;
+    background: white;
+  padding-top: 25px;
+
+}
+.redes a{
+    text-decoration: none;
+  padding: 8%;
+  
+
+}
+.pt {
+    text-align: center;
+  width: 300px;
+  margin:10px ;
+
+}
